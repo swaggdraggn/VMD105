@@ -116,6 +116,7 @@ As the crowd gathered, Jack began to weep. In all his life all he had ever wante
 
 Zachary Keplinger
 
+<<<<<<< HEAD
 _____________________________________________
 
 
@@ -123,3 +124,10 @@ That moment would change his life forever.
 
 
 Vera Kushnir 
+=======
+____________________________________________
+
+Jack is happy as a clam.
+
+Melody Rosado
+>>>>>>> origin/master

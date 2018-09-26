@@ -1,4 +1,4 @@
-﻿Github Lab 1: Collaboration
+Github Lab 1: Collaboration
 
 Instructions: In this lab we will play a game of literary ‘exquisite corpse’. The idea is we will write a story where each student writes one paragraph of the story based on the last paragraph. 
 
@@ -105,3 +105,7 @@ But Godzilla didn't listen to him.
 Yuting Lin
 
 ________________________________________
+
+Desperate for support, Godzilla went to a different location in Japan and seeked help from another monkey friend named, Donkey Kong. He brought bananas as a home welcoming gift. 
+
+Bianca Joy Catolos

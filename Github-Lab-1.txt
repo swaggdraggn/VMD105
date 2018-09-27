@@ -1,4 +1,4 @@
-﻿Github Lab 1: Collaboration
+Github Lab 1: Collaboration
 
 Instructions: In this lab we will play a game of literary ‘exquisite corpse’. The idea is we will write a story where each student writes one paragraph of the story based on the last paragraph. 
 
@@ -125,5 +125,11 @@ _________________________________________
 But the hole is so deep that it is difficult for him to pick it up. He feels terrible.
 
 Lili Zhen
+
+_________________________________________
+
+However, he forgot his house keys in his backpack, and thus he ventures deep into the hole. 
+
+Carolyn Seto
 
 _________________________________________

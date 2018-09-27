@@ -143,9 +143,6 @@ As he continues going down the hole, the further away his backpack seems to be g
 
 Vanky Wan
 
-<<<<<<< HEAD
->>>>>>> d60d368d2645433c15396807516019f69249ece6
-=======
 ________________________________________
 
 He runs to catch it. Is it just him, or has the backpack grown little legs?
@@ -153,4 +150,7 @@ He runs to catch it. Is it just him, or has the backpack grown little legs?
 Andrea Wrobel
 
 _________________________________________
->>>>>>> 80f2e3363351538ea70297490646f52d5b798383
+
+As he continues running, he still not find his backpack.
+
+Yadvendra Singh
